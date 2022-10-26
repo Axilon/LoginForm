@@ -1,6 +1,6 @@
 # login_form
 
-A new Flutter project.
+Roman Hnyniuk`s login form on Flutter
 
 ## Getting Started
 
